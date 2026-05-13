@@ -7,7 +7,7 @@ order: 4
 ## Iris
 
 **Language**: C++17, Boost.Interprocess Shared Memory Platforms:Linux & Windows
-[Github repo]: (https://github.com/GabrielHGomez/Iris)
+[github.com/GabrielHGomez/Iris](https://github.com/GabrielHGomez/Iris)
 
 A single header C++ library for sharing structs between process via shared memory. The hope is to put this project in bigger projects in which I need shared memory by using git fetch in cmake. I am also making this project work with multiple languages (C++, Python, and Rust).
 

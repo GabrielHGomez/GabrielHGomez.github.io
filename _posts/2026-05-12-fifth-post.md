@@ -1,6 +1,6 @@
 ---
-title: "Update: Wedding and Progress"
-date: 2026-05-09 20:30:00 -0500
+title: "Update2: Wedding and Progress"
+date: 2026-05-12 20:30:00 -0500
 categories: [Personal, Technical]
 tags: [Iris, Aphrodite, leetcode]
 ---
